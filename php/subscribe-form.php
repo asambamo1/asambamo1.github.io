@@ -1,10 +1,10 @@
 <?php
 /*------------------------------------------------------
- Name: 		Infinity
+ Name: 		SmartLife Digital
  Version: 	1.0
- Updated:	24/04/2015
- Website:	http://audaindesigns.com
- Author:	Audain Designs
+ Updated:	29/01/2015
+ Website:	http://smartlifedigital.com
+ Author:	SmartLife Digital
  Type:		PHP - Contact Form
 -------------------------------------------------------*/
 
