@@ -17,7 +17,7 @@ header('Content-type: application/json');
 $to = 'support@smartlifedigital.com';
 
 // Step 2 - Enable if the server requires SMTP authentication. (true/false)
-$enablePHPMailer = false;
+$enablePHPMailer = true;
 
 $subject = $_POST['subject'];
 
