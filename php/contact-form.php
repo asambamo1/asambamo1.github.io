@@ -14,7 +14,7 @@ header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 
 // Step 1 - Enter your email address below.
-$to = 'support@smartlifedigital.com';
+$to = 'aravind.arasam@gmail.com';
 
 // Step 2 - Enable if the server requires SMTP authentication. (true/false)
 $enablePHPMailer = true;
